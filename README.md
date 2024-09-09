@@ -3,14 +3,14 @@
 This application is developed for learning English. It`s main feature is a videochat in which the user can choose a role for himself. 
 Choosing different roles, users can communicate with each other on a specific topic. Thus, it will improve their pronunciation, replenish vocabulary and train the skill of quickly compiling coherent sentences.
 
+Deploy: https://maristakhovskaya.github.io/final-rss/
+
 ![Screenshot of app](https://i.ibb.co/1rrTwWp/image.png)
 ![Screenshot of app](https://i.ibb.co/XSHQQTS/1.png)
-***Features***
-----------------------------
+## Features
 - Registration
-- Authorization
-- Authentication
-- Settings (name and email change)
+- Authorization / Authentication
+- Settings
 - Change the theme of the app
 - Interactive header
 - Videochat
@@ -23,8 +23,7 @@ Choosing different roles, users can communicate with each other on a specific to
 - Preloader
 - Graphics
 
-***Tech Stack***
-----------------------------
+## Tech Stack
 
 _Frontend_
 - React
@@ -51,8 +50,8 @@ _Deploy_
 - render.com - server
 - gh-pages - frontend
 
-***Installation***
---------------------------
+## Installation
+
 1. Clone repository
 ```
 $ git clone https://github.com/MariStakhovskaya/final-rss.git
@@ -66,7 +65,7 @@ $ npm install
 $ npm run start
 ```
 
-***Authors***
+## Authors
 -------------------------
 [MariStakhovskaya](https://github.com/MariStakhovskaya) - Team Lead, Backend
 
